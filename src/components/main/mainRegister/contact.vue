@@ -2,20 +2,20 @@
   <div class="mt-[28px] mx-[30px] pb-[23px] flex justify-between">
     <div class="gap-[64px] flex items-center">
       <div>
-        <img src="../assets/logo.png" alt="logo">
+        <img src="../../../assets/logo.png" alt="logo">
       </div>
       <div class="flex">
         <div class="flex items-center">
           <p class="font-bold text-[14px] uppercase text-[#000000] py-[10px] pl-[15px] pr-[3px]">Homes </p>
-          <img src="../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
+          <img src="../../../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
         </div>
         <div class="flex items-center">
           <p class="font-bold text-[14px] uppercase text-[#000000] py-[10px] pl-[15px] pr-[3px]">Pages </p>
-          <img src="../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
+          <img src="../../../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
         </div>
         <div class="flex items-center">
           <p class="font-bold text-[14px] uppercase text-[#000000] py-[10px] pl-[15px] pr-[3px]">Products </p>
-          <img src="../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
+          <img src="../../../assets/chevronBtn.svg" alt="chevron" class="pr-[15px]">
         </div>
         <div>
           <p class="font-bold text-[14px] uppercase text-[#000000] py-[10px] pl-[15px] pr-[155px]">Contact </p>
@@ -26,7 +26,7 @@
       <div class="flex gap-[14px] mr-4">
         <div class="w-10 h-10 rounded-[20px] bg-[#EBEEF6]"></div>
         <div class="py-[11px] pl-[13px] pr-[9px] bg-[#EBEEF6] rounded-[20px]">
-          <img src="../assets/Icon.svg" alt="icon">
+          <img src="../../../assets/Icon.svg" alt="icon">
         </div>
         <div class="w-10 h-10 rounded-[20px] bg-[#EBEEF6]"></div>
       </div>

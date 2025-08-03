@@ -69,5 +69,5 @@
   </footer>
 </template>
 <script setup>
-import Site from "./site.vue"
+import Site from "./footer/site.vue"
 </script>

@@ -3,7 +3,7 @@
     <div class="rounded-[10px] w-[1360px] mx-auto bg-[#FFFFFF]">
       <div class="flex gap-[192px] mx-[128px]">
         <div>
-          <img src="../assets/logotip.png" alt="logotip" class="my-[98px]">
+          <img src="../../../assets/logotip.png" alt="logotip" class="my-[98px]">
         </div>
         <div>
           <div class="py-12">

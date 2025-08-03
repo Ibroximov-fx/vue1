@@ -7,11 +7,11 @@
         Reserved</p>
     </div>
     <div class="flex items-center gap-6">
-      <img src="../assets/payPal.svg" alt="payPal">
-      <img src="../assets/masterCard.svg" alt="masterCard">
-      <img src="../assets/visa.svg" alt="visa">
-      <img src="../assets/stripe.svg" alt="stripe">
-      <img src="../assets/klarna.svg" alt="klarna">
+      <img src="../../assets/payPal.svg" alt="payPal">
+      <img src="../../assets/masterCard.svg" alt="masterCard">
+      <img src="../../assets/visa.svg" alt="visa">
+      <img src="../../assets/stripe.svg" alt="stripe">
+      <img src="../../assets/klarna.svg" alt="klarna">
     </div>
     <div>
 <a href="" class="text-[14px] text-[#0D6EFD]"> Mobile Site</a>

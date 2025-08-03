@@ -28,5 +28,5 @@
   </header>
 </template>
 <script setup>
-import Contact from "./contact.vue";
+import Contact from "./main/mainRegister/contact.vue";
 </script>
