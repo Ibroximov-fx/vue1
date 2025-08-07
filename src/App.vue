@@ -1,13 +1,6 @@
 <template>
-<Options></Options>
+<addCars></addCars>
 </template>
-<script>
-import Options from "./components/options.vue";
-export default {
-  components: {
-    Options,
-
-  }
-}
-
+<script setup>
+import addCars from './components/addCars.vue'
 </script>
