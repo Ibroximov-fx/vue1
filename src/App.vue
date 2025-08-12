@@ -1,6 +1,6 @@
 <template>
-<addCars></addCars>
+<addClothers></addClothers>
 </template>
 <script setup>
-import addCars from './components/addCars.vue'
+import addClothers from "./components/clothers/addClothers.vue";
 </script>

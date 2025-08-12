@@ -4,9 +4,9 @@
   <Computed></Computed>
 </template>
 <script>
-import SubmitForm from './optionsVue/submitForm.vue';
-import DeleteProduct from "./optionsVue/deleteProduct.vue";
-import Computed from "./optionsVue/computed.vue";
+import SubmitForm from './submitForm.vue';
+import DeleteProduct from "./deleteProduct.vue";
+import Computed from "./computed.vue";
 export default {
   components: {
     Computed,
