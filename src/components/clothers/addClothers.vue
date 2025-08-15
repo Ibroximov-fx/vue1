@@ -66,7 +66,7 @@ let clothes = ref([
     currency: "$",
     size: "L",
     amount: 0,
-    totalPrice: 0
+    totalPrice: 89
   },
   {
     img: supreme,
@@ -76,7 +76,7 @@ let clothes = ref([
     currency: "$",
     size: "XL",
     amount: 0,
-    totalPrice: 0
+    totalPrice: 199
   },
   {
     img: adidas,
@@ -86,7 +86,7 @@ let clothes = ref([
     currency: "$",
     size: "M",
     amount: 0,
-    totalPrice: 0
+    totalPrice: 99
   }
 ])
 
