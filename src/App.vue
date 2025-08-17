@@ -1,6 +1,6 @@
 <template>
-<addClothers></addClothers>
+<Portfolio/>
 </template>
 <script setup>
-import addClothers from "./components/clothers/addClothers.vue";
+import Portfolio from './components/portfolio.vue'
 </script>
