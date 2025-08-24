@@ -5,14 +5,14 @@
         <div>
           <p class="font-medium text-[#FFFFFF] text-[30px] leading-[50px]">Logo</p>
         </div>
-        <nav>
-          <ul class="flex items-center gap-4">
-            <li class="font-bold text-[20px] text-[#FFFFFF]">О компании</li>
-            <li class="font-bold text-[20px] text-[#FFFFFF]">Портфолио</li>
-            <li class="font-bold text-[20px] text-[#FFFFFF]">Услуги</li>
-            <li class="font-bold text-[20px] text-[#FFFFFF]">Контакты</li>
-          </ul>
-        </nav>
+        <div class="flex items-center gap-4">
+          <RouterLink to="/" class="font-bold text-[20px] text-[#FFFFFF]">home</RouterLink>
+          <RouterLink to="/balloon" class="font-bold text-[20px] text-[#FFFFFF]">balloon</RouterLink>
+          <RouterLink to="/bathProduct" class="font-bold text-[20px] text-[#FFFFFF]">bathProducts</RouterLink>
+          <RouterLink to="/headlight" class="font-bold text-[20px] text-[#FFFFFF]">headlight</RouterLink>
+          <RouterLink to="/kitchenProduct" class="font-bold text-[20px] text-[#FFFFFF]">kitchenProducts</RouterLink>
+        </div>
+
         <div class="flex items-center">
           <div>
 
@@ -21,11 +21,6 @@
             <p class="font-bold text-[20px] text-[#FFFFFF]">+998 93 232-09-20</p>
             <p class="font-bold text-[14px] text-[#FFFFFF]">ibrohimov91@gmail.com</p>
           </div>
-          <div class="ml-[31px]">
-            <button class="font-bold text-[16px] text-[#FFFFFF] py-[13px] px-7 rounded-[7px] bg-[#6911AD]">
-              Заказать звонок
-            </button>
-          </div>
         </div>
       </div>
     </div>
@@ -33,4 +28,12 @@
 </template>
 <script>
 
+import {defineComponent} from "vue";
+import Balloon from "../../pages/balloon.vue";
+import BathProducts from "../../pages/bathProducts.vue";
+import KitchenProducts from "../../pages/kitchenProducts.vue";
+
+export default defineComponent({
+  components: {KitchenProducts, BathProducts, Balloon}
+})
 </script>
