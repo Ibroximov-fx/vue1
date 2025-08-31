@@ -10,6 +10,7 @@ import Books from "../pages/books.vue"
 import Cars from "../components/nestedRouterCompoonent/cars.vue";
 import Jobs from "../components/nestedRouterCompoonent/jobs.vue";
 import Students from "../components/nestedRouterCompoonent/students.vue";
+import cardsApi from "../pages/cardsApi.vue"
 
 let routes = [
     {
@@ -17,6 +18,11 @@ let routes = [
         name: "common",
         component: Common,
         children: [
+            {
+              path: "/products",
+              name: "products",
+              component: cardsApi
+            },
             {
                 path: "/",
                 name: "Home",

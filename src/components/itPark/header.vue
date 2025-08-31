@@ -6,11 +6,12 @@
           <p class="font-medium text-[#FFFFFF] text-[30px] leading-[50px]">Logo</p>
         </div>
         <div class="flex items-center gap-4">
-          <RouterLink to="/" class="font-bold text-[20px] text-[#FFFFFF]">home</RouterLink>
-          <RouterLink to="/balloon" class="font-bold text-[20px] text-[#FFFFFF]">balloon</RouterLink>
-          <RouterLink to="/bathProduct" class="font-bold text-[20px] text-[#FFFFFF]">bathProducts</RouterLink>
-          <RouterLink to="/headlight" class="font-bold text-[20px] text-[#FFFFFF]">headlight</RouterLink>
-          <RouterLink to="/kitchenProduct" class="font-bold text-[20px] text-[#FFFFFF]">kitchenProducts</RouterLink>
+          <RouterLink to="/" class="font-bold text-[16px] text-[#FFFFFF]">home</RouterLink>
+          <RouterLink to="/balloon" class="font-bold text-[16px] text-[#FFFFFF]">balloon</RouterLink>
+          <RouterLink to="/bathProduct" class="font-bold text-[16px] text-[#FFFFFF]">bathProducts</RouterLink>
+          <RouterLink to="/headlight" class="font-bold text-[16px] text-[#FFFFFF]">headlight</RouterLink>
+          <RouterLink to="/kitchenProduct" class="font-bold text-[16px] text-[#FFFFFF]">kitchenProducts</RouterLink>
+          <RouterLink to="/products" class="font-bold text-[16px] text-[#FFFFFF]">products</RouterLink>
         </div>
 
         <div class="flex items-center">
